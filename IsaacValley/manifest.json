@@ -1,0 +1,10 @@
+{
+  "Name": "Isaac Valley",
+  "Author": "Bertram",
+  "Version": "0.8.0",
+  "Description": "Play Stardew Valley as Isaac: his sprite, tears, speed and hearts, linked live to your Isaac run.",
+  "UniqueID": "Bertram.IsaacValley",
+  "EntryDll": "IsaacValley.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}

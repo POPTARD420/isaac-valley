@@ -1,0 +1,8 @@
+/Users/bertram/Downloads/isaac-valley/IsaacValley/bin/Release/net6.0/IsaacValley.deps.json
+/Users/bertram/Downloads/isaac-valley/IsaacValley/bin/Release/net6.0/IsaacValley.dll
+/Users/bertram/Downloads/isaac-valley/IsaacValley/obj/Release/net6.0/IsaacValley.csproj.AssemblyReference.cache
+/Users/bertram/Downloads/isaac-valley/IsaacValley/obj/Release/net6.0/IsaacValley.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bertram/Downloads/isaac-valley/IsaacValley/obj/Release/net6.0/IsaacValley.AssemblyInfoInputs.cache
+/Users/bertram/Downloads/isaac-valley/IsaacValley/obj/Release/net6.0/IsaacValley.AssemblyInfo.cs
+/Users/bertram/Downloads/isaac-valley/IsaacValley/obj/Release/net6.0/IsaacValley.csproj.CoreCompileInputs.cache
+/Users/bertram/Downloads/isaac-valley/IsaacValley/obj/Release/net6.0/IsaacValley.dll

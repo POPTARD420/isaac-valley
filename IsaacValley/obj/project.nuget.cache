@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vQZCjsPVwuqu8gzi2K2NLdx8T9v4I9MGCQBZ7NLWSt8szC8DE0KELBKDez9VxAJCsFNWCRhQCkRWkCrFL5ZRSw==",
+  "success": true,
+  "projectFilePath": "/Users/bertram/Downloads/isaac-valley/IsaacValley/IsaacValley.csproj",
+  "expectedPackageFiles": [
+    "/Users/bertram/.nuget/packages/pathoschild.stardew.modbuildconfig/4.4.0/pathoschild.stardew.modbuildconfig.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

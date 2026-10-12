@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <!-- Stardew Valley runs on .NET 6, so mods must target it -->
+    <TargetFramework>net6.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <AssemblyName>IsaacValley</AssemblyName>
+    <RootNamespace>IsaacValley</RootNamespace>
+    <!-- lets the mod replace how the farmer is drawn -->
+    <EnableHarmony>true</EnableHarmony>
+    <!-- If the build says it can't find your game folder, uncomment the next line and fix the path -->
+    <!-- Mac (Steam), replace YOURNAME with your Mac user name: -->
+    <!-- <GamePath>/Users/YOURNAME/Library/Application Support/Steam/steamapps/common/Stardew Valley/Contents/MacOS</GamePath> -->
+    <!-- Windows (Steam): -->
+    <!-- <GamePath>C:\Program Files (x86)\Steam\steamapps\common\Stardew Valley</GamePath> -->
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Finds your game + SMAPI automatically and copies the built mod into Stardew's Mods folder -->
+    <PackageReference Include="Pathoschild.Stardew.ModBuildConfig" Version="4.*" />
+  </ItemGroup>
+
+</Project>
