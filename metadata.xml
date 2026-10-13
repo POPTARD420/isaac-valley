@@ -1,0 +1,7 @@
+<metadata>
+    <name>Isaac Valley Bridge</name>
+    <directory>IsaacValleyBridge</directory>
+    <description>Writes Isaac's stats to a file so Stardew Valley can read them (Isaac Valley project).</description>
+    <version>0.8</version>
+    <visibility>Private</visibility>
+</metadata>
